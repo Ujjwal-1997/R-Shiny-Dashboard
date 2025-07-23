@@ -1,1 +1,1 @@
-# R-Shiny-Dashboard
+This is the web app built using R Shiny framework. Click [here](https://ukatyal4.shinyapps.io/FirstShiny/) and wait patiently for a minute for app to open and run. The app is built upon two source files - GDPPerCapita.csv and HDI.csv (human development index).
